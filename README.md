@@ -1,5 +1,5 @@
 # Sentiment-Analysis " Academic Project "
-Building a model that predicts the mean opinion score(MOS) criteria using NLP!
+Building a model that predicts the mean opinion score(MOS) criteria using NLP
 
 # Problems
 * Small dataset(151 samples)
